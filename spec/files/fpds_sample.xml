@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<usaspendingSearchResults xml_format_version="0.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faads_high.xsd">
+  <search_criteria>
+    <search_criterion field="Recipient Name" value="Boeing"/>
+    <search_criterion field="Federal Fiscal Year" value="2006"/>
+    <search_criterion field="Starting Position of XML Output Records" value="1"/>
+    <search_criterion field="Sort By" value="Recipient Name"/>
+    <search_criterion field="Number of records" value="First 1000 from Start Position"/>
+    <search_criterion field="Level of Detail" value="High (list of transactions)"/>
+    <search_criterion field="Type of Report Output" value="XML"/>
+  </search_criteria>
+  <data compiled_from_government_data_last_released_on="2010-04-22" database="FAADS" description="U.S. Federal grants and other assistance" max_records="1000">
+    <record detail="high" description="transaction list record" database="FAADS">
+      <fed_funding_amount>2300000</fed_funding_amount>
+      <recipient_name>THE BOEING COMPANY</recipient_name>
+      <major_agency>Department of Defense</major_agency>
+      <cfda_program>AIR FORCE DEFENSE RESEARCH SCIENCES PROGRAM</cfda_program>
+      <obligation_action_date>2006-09-22</obligation_action_date>
+      <progsrc_agen_code></progsrc_agen_code>
+      <progsrc_acnt_code></progsrc_acnt_code>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2006</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>19280657</record_id>
+    </record>
+  </data>
+</usaspendingSearchResults>
