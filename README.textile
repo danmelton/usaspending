@@ -1,0 +1,3 @@
+h1. USA Spending API Wrapper
+
+NOTE: This is an unofficial ruby gem. The developer is not connected to USASpending.gov
