@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.email = "melton.dan@gmail.com"
   s.homepage = "http://github.com/danmelton/usaspending"
   s.authors = ["Dan Melton"]
-  s.files = ['usaspending.gemspec','README.textile', 'CHANGES.textile']
+  s.files = ['usaspending.gemspec','README.textile', 'CHANGES.textile', 'lib/usaspending.rb','lib/usaspending/base.rb' ]
 end

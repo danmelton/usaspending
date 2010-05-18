@@ -40,7 +40,7 @@ describe USA::Base do
       
     end
 
-    it "should return nil when JSON URL returns error code" do
+    it "should return nil when URL returns error code" do
       mock_response = mock Net::HTTPNotFound
       Net::HTTP.should_receive(:get_response).and_return(mock_response)
 
