@@ -4,7 +4,7 @@ module USA
     API_URL = "http://www.usaspending.gov"
     
     #construct the url. Requires a database name, currently FAADS or FPDS
-    def self.construct_url(database, params)
+    def construct_url(database, params)
       if database == nil or database == ''
         raise "Failed to provide a Federal Database such as FAADS or FPDS"
       else
@@ -13,10 +13,8 @@ module USA
     end
 
     # Converts a hash to a GET string
-    def self.hash2get(h)
-
+    def hash2get(h)
       get_string = ""
-
       h.each_pair do |key, value|
         get_string += "&#{key.to_s}=#{CGI::escape(value.to_s)}"
       end
@@ -29,7 +27,8 @@ module USA
     #
     # Usage:
     #   Class::Instance.get_data("http://someurl.com")    # returns Hash of data or nil
-    def self.get_data(url)
+    def get_data(url)
+      puts url
 
       response = Net::HTTP.get_response(URI.parse(url))
       if response.class == Net::HTTPOK
@@ -38,7 +37,6 @@ module USA
         nil
       end
     end # self.get_data
-    
   end
 
 end

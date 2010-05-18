@@ -1,0 +1,912 @@
+<?xml version="1.0"?>
+<usaspendingSearchResults xml_format_version="0.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="fpds_high.xsd">
+  <search_criteria>
+    <search_criterion field="Federal Fiscal Year" value="2009"/>
+    <search_criterion field="Contractor State" value="Missouri"/>
+    <search_criterion field="Sort By" value="Parent Name"/>
+    <search_criterion field="Maximum Number of XML Output Records" value="69"/>
+    <search_criterion field="Starting Position of XML Output Records" value="1"/>
+    <search_criterion field="Number of records" value="First 69 from Start Position"/>
+    <search_criterion field="Level of Detail" value="High (list of transactions)"/>
+    <search_criterion field="Output" value="XML"/>
+  </search_criteria>
+  <data compiled_from_government_data_last_released_on="2010-03-19" database="FPDS" description="U.S. Federal contracts" max_records="69">
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>18844.58</obligatedAmount>
+      <mod_parent>2 Combs Enterprises, Inc.                                       </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Transportation, travel and relocation services</psc_cat>
+      <signedDate>2009-06-30</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43705796</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>-538.98</obligatedAmount>
+      <mod_parent>2 Combs Enterprises, Inc.                                       </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Transportation, travel and relocation services</psc_cat>
+      <signedDate>2009-09-10</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43794978</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>343.40</obligatedAmount>
+      <mod_parent>20 20 Exterminating Co Inc                                      </mod_parent>
+      <maj_agency_cat>Dept. of Justice</maj_agency_cat>
+      <psc_cat>Natural resources and conservation services</psc_cat>
+      <signedDate>2009-05-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42996517</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>150.00</obligatedAmount>
+      <mod_parent>20 20 Exterminating Co Inc                                      </mod_parent>
+      <maj_agency_cat>Dept. of Justice</maj_agency_cat>
+      <psc_cat>Natural resources and conservation services</psc_cat>
+      <signedDate>2009-05-29</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42997656</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>106.60</obligatedAmount>
+      <mod_parent>20 20 Exterminating Co Inc                                      </mod_parent>
+      <maj_agency_cat>Dept. of Justice</maj_agency_cat>
+      <psc_cat>Natural resources and conservation services</psc_cat>
+      <signedDate>2009-02-05</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42993422</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>-24.00</obligatedAmount>
+      <mod_parent>20 20 Exterminating Co Inc                                      </mod_parent>
+      <maj_agency_cat>Dept. of Justice</maj_agency_cat>
+      <psc_cat>Natural resources and conservation services</psc_cat>
+      <signedDate>2009-07-21</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43000096</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-04-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44998235</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-04-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44998236</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-04-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44998237</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-07-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45031976</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2008-10-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44942823</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-01-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44967150</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-07-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45031977</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-01-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44967152</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-07-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45031978</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>30153.40</obligatedAmount>
+      <mod_parent>2021 Independence LLC                                           </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-01-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44967151</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16165.58</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-04-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44994404</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16165.58</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-04-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44994403</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16165.58</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-01-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44963955</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16104.19</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-01-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44963936</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16104.19</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-07-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45027774</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16104.19</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-04-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44994380</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16104.19</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-07-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45027773</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>16104.19</obligatedAmount>
+      <mod_parent>3605 Partnership LLC                                            </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Lease or rental of facilities</psc_cat>
+      <signedDate>2009-07-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45027772</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>1391.94</obligatedAmount>
+      <mod_parent>601 Federal Complex Child                                       </mod_parent>
+      <maj_agency_cat>General Services Administration</maj_agency_cat>
+      <psc_cat>Operation of government-owned facilities</psc_cat>
+      <signedDate>2009-08-17</signedDate>
+      <progSourceAgency>47</progSourceAgency>
+      <progSourceAccount>4542</progSourceAccount>
+      <tre_account_title>Federal Buildings Fund</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45044302</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>444.66</obligatedAmount>
+      <mod_parent>A A T Communications Corp                                       </mod_parent>
+      <maj_agency_cat>Dept. of the Interior</maj_agency_cat>
+      <psc_cat>Alarm, signal, and security detection systems</psc_cat>
+      <signedDate>2008-11-10</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42897920</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>46800.00</obligatedAmount>
+      <mod_parent>A Chem Products Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Veterans Affairs</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-07-15</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44050738</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>26900.00</obligatedAmount>
+      <mod_parent>A Chem Products Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Veterans Affairs</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-06-11</signedDate>
+      <progSourceAgency>36</progSourceAgency>
+      <progSourceAccount>0162</progSourceAccount>
+      <tre_account_title>Medical Facilities</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44031821</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>7600.00</obligatedAmount>
+      <mod_parent>A Chem Products Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Veterans Affairs</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-06-16</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44033808</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>4500.00</obligatedAmount>
+      <mod_parent>A Chem Products Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Veterans Affairs</maj_agency_cat>
+      <psc_cat>Medical services</psc_cat>
+      <signedDate>2009-04-20</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>44003491</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>12500.00</obligatedAmount>
+      <mod_parent>A J &amp; Sons                                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-08-24</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43768924</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>12500.00</obligatedAmount>
+      <mod_parent>A J &amp; Sons                                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-06-11</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43685858</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>9435.00</obligatedAmount>
+      <mod_parent>A J &amp; Sons                                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-05-11</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43653362</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>3448.00</obligatedAmount>
+      <mod_parent>A J &amp; Sons                                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Maintenance and repair shop equipment</psc_cat>
+      <signedDate>2008-10-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45057605</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>-349.00</obligatedAmount>
+      <mod_parent>A J &amp; Sons                                                      </mod_parent>
+      <maj_agency_cat>Dept. of the Treasury</maj_agency_cat>
+      <psc_cat>Maintenance, repair and rebuilding of equipment</psc_cat>
+      <signedDate>2009-01-13</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43433311</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>-500.00</obligatedAmount>
+      <mod_parent>A J &amp; Sons                                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Maintenance and repair shop equipment</psc_cat>
+      <signedDate>2009-09-14</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45185106</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>1961564.97</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-06-30</signedDate>
+      <progSourceAgency>96</progSourceAgency>
+      <progSourceAccount>3134</progSourceAccount>
+      <tre_account_title>Construction</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr>Recovery Act</busn_indctr>
+      <record_id>43705360</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>224347.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-07-29</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43735739</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>204191.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-06-19</signedDate>
+      <progSourceAgency>96</progSourceAgency>
+      <progSourceAccount>3134</progSourceAccount>
+      <tre_account_title>Construction</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr>Recovery Act</busn_indctr>
+      <record_id>43693744</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>200000.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-06-19</signedDate>
+      <progSourceAgency>96</progSourceAgency>
+      <progSourceAccount>3134</progSourceAccount>
+      <tre_account_title>Construction</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43694169</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>175303.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-08-24</signedDate>
+      <progSourceAgency>96</progSourceAgency>
+      <progSourceAccount>3113</progSourceAccount>
+      <tre_account_title>Mississippi River and Tributaries.</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43768742</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>170000.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-07-21</signedDate>
+      <progSourceAgency>17</progSourceAgency>
+      <progSourceAccount>0100</progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43725517</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>48000.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-05-04</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43646471</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>42777.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-07-02</signedDate>
+      <progSourceAgency>96</progSourceAgency>
+      <progSourceAccount>3134</progSourceAccount>
+      <tre_account_title>Construction</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr>Recovery Act</busn_indctr>
+      <record_id>43707972</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>27094.72</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-08-21</signedDate>
+      <progSourceAgency>96</progSourceAgency>
+      <progSourceAccount>3134</progSourceAccount>
+      <tre_account_title>Construction</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr>Recovery Act</busn_indctr>
+      <record_id>43765582</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>0.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-09-18</signedDate>
+      <progSourceAgency>17</progSourceAgency>
+      <progSourceAccount>0100</progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43813776</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>-48000.00</obligatedAmount>
+      <mod_parent>A Jacobs/Seh Joint Venture                                      </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Architect and engineering services</psc_cat>
+      <signedDate>2009-06-23</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43697245</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>7560.00</obligatedAmount>
+      <mod_parent>A Marie Danner                                                  </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Utilities and housekeeping services</psc_cat>
+      <signedDate>2009-03-05</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43582626</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>0.00</obligatedAmount>
+      <mod_parent>A Marie Danner                                                  </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Utilities and housekeeping services</psc_cat>
+      <signedDate>2009-06-22</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43696053</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>0.00</obligatedAmount>
+      <mod_parent>A Marie Danner                                                  </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Utilities and housekeeping services</psc_cat>
+      <signedDate>2008-12-05</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43502089</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>12022.00</obligatedAmount>
+      <mod_parent>A Par Graphics Inc                                              </mod_parent>
+      <maj_agency_cat>Dept. of the Treasury</maj_agency_cat>
+      <psc_cat>Nonmetallic fabricated materials</psc_cat>
+      <signedDate>2009-04-14</signedDate>
+      <progSourceAgency>20</progSourceAgency>
+      <progSourceAccount>0129</progSourceAccount>
+      <tre_account_title>&quot;Administrative Expenses, Recovery Act&quot;</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr>Recovery Act</busn_indctr>
+      <record_id>43403987</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>10545.00</obligatedAmount>
+      <mod_parent>A Par Graphics Inc                                              </mod_parent>
+      <maj_agency_cat>Dept. of the Treasury</maj_agency_cat>
+      <psc_cat>Metalworking machinery</psc_cat>
+      <signedDate>2009-04-22</signedDate>
+      <progSourceAgency>20</progSourceAgency>
+      <progSourceAccount>1801</progSourceAccount>
+      <tre_account_title>Salaries and Expenses</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43404006</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>9939.60</obligatedAmount>
+      <mod_parent>A Par Graphics Inc                                              </mod_parent>
+      <maj_agency_cat>Dept. of the Treasury</maj_agency_cat>
+      <psc_cat>Nonmetallic fabricated materials</psc_cat>
+      <signedDate>2008-11-20</signedDate>
+      <progSourceAgency>20</progSourceAgency>
+      <progSourceAccount>1801</progSourceAccount>
+      <tre_account_title>Salaries and Expenses</tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43403612</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>4991433.22</obligatedAmount>
+      <mod_parent>A Zerega&#039;s Sons Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Agriculture</maj_agency_cat>
+      <psc_cat>Subsistence</psc_cat>
+      <signedDate>2009-02-25</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42780100</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>4091067.51</obligatedAmount>
+      <mod_parent>A Zerega&#039;s Sons Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Agriculture</maj_agency_cat>
+      <psc_cat>Subsistence</psc_cat>
+      <signedDate>2008-11-19</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42779546</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>1555507.31</obligatedAmount>
+      <mod_parent>A Zerega&#039;s Sons Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Agriculture</maj_agency_cat>
+      <psc_cat>Subsistence</psc_cat>
+      <signedDate>2009-05-28</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42780653</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>106608.40</obligatedAmount>
+      <mod_parent>A Zerega&#039;s Sons Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Agriculture</maj_agency_cat>
+      <psc_cat>Subsistence</psc_cat>
+      <signedDate>2009-09-28</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42781832</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>96086.72</obligatedAmount>
+      <mod_parent>A Zerega&#039;s Sons Inc                                             </mod_parent>
+      <maj_agency_cat>Dept. of Agriculture</maj_agency_cat>
+      <psc_cat>Subsistence</psc_cat>
+      <signedDate>2008-12-11</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>42779687</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>9874.00</obligatedAmount>
+      <mod_parent>A-1 Moving &amp; Storage Inc                                        </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Transportation, travel and relocation services</psc_cat>
+      <signedDate>2008-12-11</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43506756</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>709.68</obligatedAmount>
+      <mod_parent>A. B. Converting Co, Inc                                        </mod_parent>
+      <maj_agency_cat>Dept. of Homeland Security</maj_agency_cat>
+      <psc_cat> </psc_cat>
+      <signedDate>2009-04-30</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45275366</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>4770.00</obligatedAmount>
+      <mod_parent>A. C. Systems, Inc.                                             </mod_parent>
+      <maj_agency_cat>Dept. of Veterans Affairs</maj_agency_cat>
+      <psc_cat>Electrical and electronic equipment components</psc_cat>
+      <signedDate>2009-02-11</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43968357</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>32200.00</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Instruments and laboratory equipment</psc_cat>
+      <signedDate>2009-03-11</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45665951</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>26752.00</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Vehicular equipment components</psc_cat>
+      <signedDate>2008-12-01</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45548526</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>18759.56</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Pipe, tubing, hose, and fittings</psc_cat>
+      <signedDate>2009-01-22</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43100476</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>11040.00</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Valves</psc_cat>
+      <signedDate>2009-02-19</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45639784</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>9200.00</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Instruments and laboratory equipment</psc_cat>
+      <signedDate>2009-05-06</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45741156</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>8700.00</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Valves</psc_cat>
+      <signedDate>2009-01-24</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45607979</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>7306.00</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Valves</psc_cat>
+      <signedDate>2009-03-05</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>45659200</record_id>
+    </record>
+    <record detail="high" description="transaction list record" database="FPDS">
+      <obligatedAmount>6821.75</obligatedAmount>
+      <mod_parent>A. D. Michel Co., Inc.                                          </mod_parent>
+      <maj_agency_cat>Dept. of Defense</maj_agency_cat>
+      <psc_cat>Pipe, tubing, hose, and fittings</psc_cat>
+      <signedDate>2009-05-19</signedDate>
+      <progSourceAgency></progSourceAgency>
+      <progSourceAccount></progSourceAccount>
+      <tre_account_title></tre_account_title>
+      <fiscal_year>2009</fiscal_year>
+      <busn_indctr></busn_indctr>
+      <record_id>43199030</record_id>
+    </record>
+  </data>
+</usaspendingSearchResults>

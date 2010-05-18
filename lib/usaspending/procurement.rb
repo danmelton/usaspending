@@ -3,7 +3,7 @@ module USA
   class Procurement < Base
 
     def initialize
-      @database = 'fdps'
+      @database = 'fpds'
       @query = {}
       @errors = {}
     end
@@ -142,12 +142,12 @@ module USA
     
     def competition_status(cat_value)
       @query[:complete_cat] = case cat_value
-      when "everyone" || "c" then "c"
-      when "One offer" || "o" then "o"
-      when "pool" || "p" then "p"
-      when "no" || "n" then "n"
-      when "groups" || "a" then "a"
-      when "actions" || "f" then "f"
+      when "everyone", "c" then "c"
+      when "One offer", "o" then "o"
+      when "pool", "p" then "p"
+      when "no", "n" then "n"
+      when "groups", "a" then "a"
+      when "actions", "f" then "f"
       else "u"
       end
       self
@@ -180,11 +180,11 @@ module USA
     # Defaults to sort by dollars if not provided.
     def sort_by(sortby_number)
       @query[:sortby] = case sortby_number 
-      when "name" || "r" then "r"
-      when "dollars" || "f" then "f"
-      when "major agency" || "g" then "g"
-      when "category" || "p" then "p"
-      when "date" || "d" then "d"
+      when "name", "r" then "r"
+      when "dollars", "f" then "f"
+      when "major agency", "g" then "g"
+      when "category", "p" then "p"
+      when "date", "d" then "d"
       else "f"
       end
       self
@@ -192,31 +192,38 @@ module USA
     
     #specify time frame in years.  Requires start value if specified, otherwise, leaving this function will default to all fiscal years
     #entering a wrong year will default to the current year
-    def years(start_year, end_year = nil )
-      case end_year
-        when nil && start_year > 1999 && start_year < Time.now.year.to_i + 1
-          @query[:fiscal_year] = start_year
-        when nil && start_year < 2000 && start_year < Time.now.year.to_i + 1
-          @query[:fiscal_year] = Time.now.year
-        when end_year > start_year && start_year > 1999 && end_year < Time.now.year.to_i + 1
-          @query[:first_year_range] = start_year
-          @query[:last_year_range] = end_year        
-        else
-          @query[:fiscal_year] = start_year
+    def years(s_year, end_year = nil )
+      start_year = s_year.to_i
+      end_year = end_year.to_i unless end_year.nil?
+      if end_year
+        if start_year < 2000 || start_year > Time.now.year.to_i + 1
+          @errors[:years] = "Problem with Start Year"
+        else  
+          if end_year > start_year && end_year < Time.now.year.to_i + 1
+            @query[:first_year_range] = start_year
+            @query[:last_year_range] = end_year
+          else
+            @errors[:years] = "Problem with End Year"
+          end        
         end
+      elsif start_year < 2000 or start_year > Time.now.year.to_i + 1
+        @errors[:years] = "Problem with Start Year"
+      else
+        @query[:fiscal_year] = start_year  
+      end
       self
     end
     
     # Allows you to set the starting position of the records to be retrieved, defaults to 1 if less than 0
     def start_from(start_number)
-      @query[:start_number] = start_number > 0 ? start_number : 1
+      @query[:records_from] = start_number > 0 ? start_number : 1
       self
     end
     
     #Allows you to set the maximum number of records retrieved to fewer than 1000
     # defaults to 1000 when over a 1000
     def max_records(max_number)
-      @query[:max_records] = max_number < 1000 ? max_number : 1000
+      @query[:max_records] = max_number.to_i < 1000 ? max_number : 1000
       self
     end
     
@@ -246,9 +253,8 @@ module USA
 
     # Fetch the Procurement Search
     def fetch
-      query_params = hash2get(@query)
-      query_url = construct_url(database, query_params)
-      return get_data(query_url)
+      query_url = construct_url(database, @query)
+      get_data(query_url)
     end
 
   end # class Procurement
