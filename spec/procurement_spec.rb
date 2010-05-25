@@ -14,9 +14,17 @@ describe USA::Procurement do
   describe "Multiple Search options & fetch" do
     
     it "should return a query with detail,sortby, maxrecords and state" do
-      get_query = USA::Procurement.new.detail(2).sort_by("r").state("MO").max_records("69").years("2009")
-      get_query.query.should eql({:detail=>2, :sortby=>"r", :state => "MO", :max_records=>"69", :fiscal_year=>2009})
-      get_query.fetch
+      get_query = USA::Procurement.new.detail("b").sort_by("r").state("MO").max_records("69").years("2009")
+      get_query.query.should eql({:detail=>"b", :sortby=>"r", :state => "MO", :max_records=>"69", :fiscal_year=>2009})
+      
+      xml = File.read("files/fpds_search_sample_basic.xml")
+      mock_response = mock Net::HTTPOK
+      mock_response.should_receive(:class).and_return(Net::HTTPOK)
+      mock_response.should_receive(:body).and_return(xml)
+      Net::HTTP.should_receive(:get_response).and_return(mock_response)
+      data = get_query.fetch
+      data["result"].first.first[1].size.should eql (69)
+      
     end
   
   end
@@ -24,14 +32,10 @@ describe USA::Procurement do
   
   describe "#detail" do
 
-    it "should return a query with detail set to 0 through 4" do
-      get_query = USA::Procurement.new.detail(2)
-      get_query.query.should eql({:detail=>2})
-    end
     
-    it "should return a query with detail set to 1 if not set to 0 through 4" do
-      get_query = USA::Procurement.new.detail(5)
-      get_query.query.should eql({:detail=>1})
+    it "should return a query with detail set to c if not set to b or c" do
+      get_query = USA::Procurement.new.detail("c")
+      get_query.query.should eql({:detail=>"c"})
     end
 
   end

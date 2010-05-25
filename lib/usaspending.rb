@@ -1,7 +1,7 @@
 require 'time'
 require 'cgi'
 require 'open-uri'
-require 'nokogiri'
+require 'xmlsimple'
 require 'net/http'
 require 'net/https'
 

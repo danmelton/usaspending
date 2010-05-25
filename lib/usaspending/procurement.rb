@@ -227,13 +227,19 @@ module USA
       self
     end
     
+    def record(record_number)
+      #set the detail to c
+      self.detail("c")
+      @query[:record_id] = record_number
+      self
+    end
     
-    # accepts values 0 through 4, defaults to 1 if not 0 through 4
+    # accepts values b or c, defaults to b 
     def detail(detail_number)
-      if [0,1,2,3,4].include?(detail_number)
+      if ["b", "c"].include?(detail_number.downcase)
         detail_value = detail_number
       else
-        detail_value = 1
+        detail_value = "b"
       end  
       @query[:detail] = detail_value
       self
@@ -251,10 +257,22 @@ module USA
       self
     end
 
-    # Fetch the Procurement Search
+    def url
+      construct_url(database, @query)
+    end
+
+    # Fetch the Procurement Search returning parsed xml
     def fetch
-      query_url = construct_url(database, @query)
-      get_data(query_url)
+      get_data(url)
+    end
+    
+    # Fetch the Procurement Search returning array of contract objects
+    def fetch_contracts
+      contracts = []
+      self.fetch["result"].first.first[1].each do |contract|
+        contracts << USA::Contract.new(contract)
+      end
+      return contracts
     end
 
   end # class Procurement

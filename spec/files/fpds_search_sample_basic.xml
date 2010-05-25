@@ -1,0 +1,3179 @@
+<response>
+<result numFound="58298" max_records="69">
+<doc>
+<record_count>1</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Bureau of Prisoners/Federal Prison System</ContractingAgency>
+<ContractorOrRecipientId>378756</ContractorOrRecipientId>
+<DUNSNumber>9291215070000</DUNSNumber>
+<DateSigned>07-14-2009</DateSigned>
+<DollarsObligated>225</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Bureau of Prisoners/Federal Prison System</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>KENNETH G SELKE MD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630173618</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>621111</PrincipalNAICSCode>
+<ProcurementInstrumentID>DJBP0407IB210096</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Cardio-Vascular Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Treatment/Testing/Consult for:  Robinson #19002-424 Dates of Service:  05/19/09 Prior Approval:  IV-B210637</ProjectDescription>
+<RecipientAddressLine123>224 S WOODS MILL RD STE 670 S  </RecipientAddressLine123>
+<RecipientCity>CHESTERFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>KENNETH G SELKE MD</RecipientName>
+<RecipientOrContractorName>(AFF: SAINT LUKES NORTHLAND HOSPITAL )</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630173451</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>SELKE  KENNETH G MD</VendorName>
+</doc>
+<doc>
+<record_count>2</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Bureau of Prisoners/Federal Prison System</ContractingAgency>
+<ContractorOrRecipientId>378756</ContractorOrRecipientId>
+<DUNSNumber>9291215070000</DUNSNumber>
+<DateSigned>08-24-2009</DateSigned>
+<DollarsObligated>710</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Bureau of Prisoners/Federal Prison System</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>KENNETH G SELKE MD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630173618</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>621111</PrincipalNAICSCode><ProcurementInstrumentID>DJBP0407IB210109</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Cardio-Vascular Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Treatment/Testing/Consult</ProjectDescription>
+<RecipientAddressLine123>224 S WOODS MILL RD STE 670 S  </RecipientAddressLine123>
+<RecipientCity>CHESTERFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>KENNETH G SELKE MD</RecipientName>
+<RecipientOrContractorName>(AFF: SAINT LUKES NORTHLAND HOSPITAL )</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630173451</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>SELKE  KENNETH G MD</VendorName>
+</doc>
+<doc>
+<record_count>3</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Bureau of Prisoners/Federal Prison System</ContractingAgency>
+<ContractorOrRecipientId>378756</ContractorOrRecipientId>
+<DUNSNumber>9291215070000</DUNSNumber>
+<DateSigned>08-24-2009</DateSigned>
+<DollarsObligated>205</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Bureau of Prisoners/Federal Prison System</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>KENNETH G SELKE MD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630173618</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>621111</PrincipalNAICSCode><ProcurementInstrumentID>DJBP0407IB210107</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Cardio-Vascular Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Treatment/Testing/Consult</ProjectDescription>
+<RecipientAddressLine123>224 S WOODS MILL RD STE 670 S  </RecipientAddressLine123>
+<RecipientCity>CHESTERFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>KENNETH G SELKE MD</RecipientName>
+<RecipientOrContractorName>(AFF: SAINT LUKES NORTHLAND HOSPITAL )</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630173451</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>SELKE  KENNETH G MD</VendorName>
+</doc>
+<doc>
+<record_count>4</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Bureau of Prisoners/Federal Prison System</ContractingAgency>
+<ContractorOrRecipientId>378756</ContractorOrRecipientId>
+<DUNSNumber>9291215070000</DUNSNumber>
+<DateSigned>08-21-2009</DateSigned>
+<DollarsObligated>375</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Bureau of Prisoners/Federal Prison System</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>KENNETH G SELKE MD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630173618</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>621111</PrincipalNAICSCode><ProcurementInstrumentID>DJBP0407IB210105</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Cardio-Vascular Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Treatment/Testing/Consult</ProjectDescription>
+<RecipientAddressLine123>224 S WOODS MILL RD STE 670 S  </RecipientAddressLine123>
+<RecipientCity>CHESTERFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>KENNETH G SELKE MD</RecipientName>
+<RecipientOrContractorName>(AFF: SAINT LUKES NORTHLAND HOSPITAL )</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630173451</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>SELKE  KENNETH G MD</VendorName>
+</doc>
+<doc>
+<record_count>5</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Bureau of Prisoners/Federal Prison System</ContractingAgency>
+<ContractorOrRecipientId>378756</ContractorOrRecipientId>
+<DUNSNumber>9291215070000</DUNSNumber>
+<DateSigned>08-24-2009</DateSigned>
+<DollarsObligated>75</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Bureau of Prisoners/Federal Prison System</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>KENNETH G SELKE MD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630173618</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>621111</PrincipalNAICSCode><ProcurementInstrumentID>DJBP0407IB210111</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Cardio-Vascular Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Treatment/Testing/Consult</ProjectDescription>
+<RecipientAddressLine123>224 S WOODS MILL RD STE 670 S  </RecipientAddressLine123>
+<RecipientCity>CHESTERFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>KENNETH G SELKE MD</RecipientName>
+<RecipientOrContractorName>(AFF: SAINT LUKES NORTHLAND HOSPITAL )</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630173451</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>SELKE  KENNETH G MD</VendorName>
+</doc>
+<doc>
+<record_count>6</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Bureau of Prisoners/Federal Prison System</ContractingAgency>
+<ContractorOrRecipientId>378756</ContractorOrRecipientId>
+<DUNSNumber>9291215070000</DUNSNumber>
+<DateSigned>07-16-2009</DateSigned>
+<DollarsObligated>485</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Bureau of Prisoners/Federal Prison System</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>KENNETH G SELKE MD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630173618</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>621111</PrincipalNAICSCode><ProcurementInstrumentID>DJBP0407IB210098</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Cardio-Vascular Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Treatment/Testing/Consult</ProjectDescription>
+<RecipientAddressLine123>224 S WOODS MILL RD STE 670 S  </RecipientAddressLine123>
+<RecipientCity>CHESTERFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>KENNETH G SELKE MD</RecipientName>
+<RecipientOrContractorName>(AFF: SAINT LUKES NORTHLAND HOSPITAL )</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630173451</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>SELKE  KENNETH G MD</VendorName>
+</doc>
+<doc>
+<record_count>7</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>NAVY  Department of the</ContractingAgency>
+<ContractorOrRecipientId>13288</ContractorOrRecipientId>
+<DUNSNumber>0062708540000</DUNSNumber>
+<DateSigned>07-08-2009</DateSigned>
+<DollarsObligated>231.9</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>NAVY  Department of the</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>53</PSCCategoryCode>
+<ParentRecipientOrCompanyName>DEFIANCE MACHINE &amp; TOOL MANUFACTURING COMPANY  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630451343</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>332510</PrincipalNAICSCode><ProcurementInstrumentID>N0040609P7753</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Hardware  Commercial</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>STRIP GUIDE ASSY</ProjectDescription>
+<RecipientAddressLine123>13475 LAKEFRONT DR  </RecipientAddressLine123>
+<RecipientCity>EARTH CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>DEFIANCE MACHINE &amp; TOOL MANUFACTURING COMPANY  INC.</RecipientName>
+<RecipientOrContractorName>/DEFIANCE MACHINE &amp; TOOL CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630451343</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>DEFIANCE MACHINE &amp; TOOL MANUFACTURING COMPANY  INC.</VendorName>
+</doc>
+<doc>
+<record_count>8</record_count>
+<AwardType>IDC</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Rural Housing Service</ContractingAgency>
+<ContractorOrRecipientId>135308</ContractorOrRecipientId>
+<DUNSNumber>1029957970000</DUNSNumber>
+<DateSigned>11-25-2008</DateSigned>
+<DollarsObligated>8534</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Rural Housing Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Agriculture</MajorAgency>
+<MajorFundingAgency>Department of Agriculture</MajorFundingAgency>
+<ModificationNumber>5</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>A</PSCCategoryCode>
+<ParentRecipientOrCompanyName>EXECUTIVE EXPRESS  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>492110</PrincipalNAICSCode><ProcurementInstrumentID>AG31MEC070006</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Services -- Management and Support (R&amp;D)</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Courier Service to be provided by 1st Choice Courier Service from May 1  2007 thru Sept. 30  2007.</ProjectDescription>
+<RecipientAddressLine123>4600-A GOODFELLOW BLVD  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>EXECUTIVE EXPRESS  INC.</RecipientName>
+<RecipientOrContractorName>1ST CHOICE COURIER   DIST.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631201503</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>IDC</TypeofTransaction>
+<VendorName>EXECUTIVE EXPRESS INCORPORATED (6764)</VendorName>
+</doc>
+<doc>
+<record_count>9</record_count>
+<AwardType>IDC</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Rural Housing Service</ContractingAgency>
+<ContractorOrRecipientId>135308</ContractorOrRecipientId>
+<DUNSNumber>1029957970000</DUNSNumber>
+<DateSigned>06-17-2009</DateSigned>
+<DollarsObligated>9627</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Rural Housing Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Agriculture</MajorAgency>
+<MajorFundingAgency>Department of Agriculture</MajorFundingAgency>
+<ModificationNumber>6</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>A</PSCCategoryCode>
+<ParentRecipientOrCompanyName>EXECUTIVE EXPRESS  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>492110</PrincipalNAICSCode><ProcurementInstrumentID>AG31MEC070006</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Services -- Management and Support (R&amp;D)</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>COURIER SERVICES.</ProjectDescription>
+<RecipientAddressLine123>4600-A GOODFELLOW BLVD  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>EXECUTIVE EXPRESS  INC.</RecipientName>
+<RecipientOrContractorName>1ST CHOICE COURIER   DIST.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631201503</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>IDC</TypeofTransaction>
+<VendorName>EXECUTIVE EXPRESS INCORPORATED (6764)</VendorName>
+</doc>
+<doc>
+<record_count>10</record_count>
+<AwardType>IDC</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Rural Housing Service</ContractingAgency>
+<ContractorOrRecipientId>135308</ContractorOrRecipientId>
+<DUNSNumber>1029957970000</DUNSNumber>
+<DateSigned>08-03-2009</DateSigned>
+<DollarsObligated>25659</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Rural Housing Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Agriculture</MajorAgency>
+<MajorFundingAgency>Department of Agriculture</MajorFundingAgency>
+<ModificationNumber>7</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>A</PSCCategoryCode>
+<ParentRecipientOrCompanyName>EXECUTIVE EXPRESS  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>492110</PrincipalNAICSCode><ProcurementInstrumentID>AG31MEC070006</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Services -- Management and Support (R&amp;D)</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Courier Services.</ProjectDescription>
+<RecipientAddressLine123>4600-A GOODFELLOW BLVD  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>EXECUTIVE EXPRESS  INC.</RecipientName>
+<RecipientOrContractorName>1ST CHOICE COURIER   DIST.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631201503</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>IDC</TypeofTransaction>
+<VendorName>EXECUTIVE EXPRESS INCORPORATED (6764)</VendorName>
+</doc>
+<doc>
+<record_count>11</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>36853</ContractorOrRecipientId>
+<DUNSNumber>0208322130000</DUNSNumber>
+<DateSigned>06-30-2009</DateSigned>
+<DollarsObligated>18844.58</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>V</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2 COMBS ENTERPRISES  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO07</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>658034351</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>721110</PrincipalNAICSCode><ProcurementInstrumentID>W91SMC09P0188</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lodging - Hotel/Motel</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Hotel Lodging  July 11-August 8  2009</ProjectDescription>
+<RecipientAddressLine123>1610 E EVERGREEN ST  </RecipientAddressLine123>
+<RecipientCity>SPRINGFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2 COMBS ENTERPRISES  INC.</RecipientName>
+<RecipientOrContractorName>2 COMBS ENTERPRISES  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>658034351</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>2 COMBS ENTERPRISES  INC.</VendorName>
+</doc>
+<doc>
+<record_count>12</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>36853</ContractorOrRecipientId>
+<DUNSNumber>0208322130000</DUNSNumber>
+<DateSigned>09-10-2009</DateSigned>
+<DollarsObligated>-538.98</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>P00001</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>V</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2 COMBS ENTERPRISES  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO07</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>658034351</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>721110</PrincipalNAICSCode><ProcurementInstrumentID>W91SMC09P0188</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lodging - Hotel/Motel</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Hotel Lodging  July 11-August 8  2009</ProjectDescription>
+<RecipientAddressLine123>1610 E EVERGREEN ST  </RecipientAddressLine123>
+<RecipientCity>SPRINGFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2 COMBS ENTERPRISES  INC.</RecipientName>
+<RecipientOrContractorName>2 COMBS ENTERPRISES  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>658034351</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>2 COMBS ENTERPRISES  INC.</VendorName>
+</doc>
+<doc>
+<record_count>13</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Drug Enforcement Administration</ContractingAgency>
+<ContractorOrRecipientId>371449</ContractorOrRecipientId>
+<DUNSNumber>8763853780000</DUNSNumber>
+<DateSigned>02-05-2009</DateSigned>
+<DollarsObligated>106.6</DollarsObligated>
+<ExtentCompeted>Not Available for Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Drug Enforcement Administration</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>F</PSCCategoryCode>
+<ParentRecipientOrCompanyName>20 20 EXTERMINATING CO INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631450009</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561710</PrincipalNAICSCode><ProcurementInstrumentID>DJD09SLP0020</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Pesticides Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>PEST CONTROL Funds are obligated in the amount of $106.60. The remaining $493.40 is "Subject to the Availability of Funds."</ProjectDescription>
+<RecipientAddressLine123>5247 N HWY  </RecipientAddressLine123>
+<RecipientCity>SAINT CHARLES</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>20 20 EXTERMINATING CO INC</RecipientName>
+<RecipientOrContractorName>20 20 EXTERMINATING CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>633047120</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>20 20 EXTERMINATING CO INC</VendorName>
+</doc>
+<doc>
+<record_count>14</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Drug Enforcement Administration</ContractingAgency>
+<ContractorOrRecipientId>371449</ContractorOrRecipientId>
+<DUNSNumber>8763853780000</DUNSNumber>
+<DateSigned>05-01-2009</DateSigned>
+<DollarsObligated>343.4</DollarsObligated>
+<ExtentCompeted>Not Available for Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Drug Enforcement Administration</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>1</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>F</PSCCategoryCode>
+<ParentRecipientOrCompanyName>20 20 EXTERMINATING CO INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631450009</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561710</PrincipalNAICSCode><ProcurementInstrumentID>DJD09SLP0020</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Pesticides Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>PEST CONTROL 12 months @ $50.00 per month</ProjectDescription>
+<RecipientAddressLine123>5247 N HWY  </RecipientAddressLine123>
+<RecipientCity>SAINT CHARLES</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>20 20 EXTERMINATING CO INC</RecipientName>
+<RecipientOrContractorName>20 20 EXTERMINATING CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>633047120</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>20 20 EXTERMINATING CO INC</VendorName>
+</doc>
+<doc>
+<record_count>15</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Drug Enforcement Administration</ContractingAgency>
+<ContractorOrRecipientId>371449</ContractorOrRecipientId>
+<DUNSNumber>8763853780000</DUNSNumber>
+<DateSigned>07-21-2009</DateSigned>
+<DollarsObligated>-24</DollarsObligated>
+<ExtentCompeted>Not Available for Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Drug Enforcement Administration</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>3</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>F</PSCCategoryCode>
+<ParentRecipientOrCompanyName>20 20 EXTERMINATING CO INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631450009</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561710</PrincipalNAICSCode><ProcurementInstrumentID>DJD09SLP0020</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Pesticides Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>PEST CONTROL 12 months @ $50.00 per month</ProjectDescription>
+<RecipientAddressLine123>5247 N HWY  </RecipientAddressLine123>
+<RecipientCity>SAINT CHARLES</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>20 20 EXTERMINATING CO INC</RecipientName>
+<RecipientOrContractorName>20 20 EXTERMINATING CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>633047120</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>20 20 EXTERMINATING CO INC</VendorName>
+</doc>
+<doc>
+<record_count>16</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Drug Enforcement Administration</ContractingAgency>
+<ContractorOrRecipientId>371449</ContractorOrRecipientId>
+<DUNSNumber>8763853780000</DUNSNumber>
+<DateSigned>05-29-2009</DateSigned>
+<DollarsObligated>150</DollarsObligated>
+<ExtentCompeted>Not Available for Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Drug Enforcement Administration</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Justice</MajorAgency>
+<MajorFundingAgency>Department of Justice</MajorFundingAgency>
+<ModificationNumber>2</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>F</PSCCategoryCode>
+<ParentRecipientOrCompanyName>20 20 EXTERMINATING CO INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631450009</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561710</PrincipalNAICSCode><ProcurementInstrumentID>DJD09SLP0020</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Pesticides Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>PEST CONTROL 12 months @ $50.00 per month</ProjectDescription>
+<RecipientAddressLine123>5247 N HWY  </RecipientAddressLine123>
+<RecipientCity>SAINT CHARLES</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>20 20 EXTERMINATING CO INC</RecipientName>
+<RecipientOrContractorName>20 20 EXTERMINATING CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>633047120</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>20 20 EXTERMINATING CO INC</VendorName>
+</doc>
+<doc>
+<record_count>17</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>04-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000209181</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>18</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>01-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B200020931</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>19</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>01-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B200020990</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>20</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>01-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B200020959</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>21</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>10-01-2008</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000208366</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>22</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>07-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000209273</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>23</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>07-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000209212</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>24</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>07-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000209243</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>25</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>04-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000209120</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>26</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>1149996</ContractorOrRecipientId>
+<DUNSNumber>1247274910000</DUNSNumber>
+<DateSigned>04-01-2009</DateSigned>
+<DollarsObligated>30153.4</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B20002</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>2021 INDEPENDENCE LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641242309</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B2000209151</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>2600 GRAND BLVD #700  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>2021 INDEPENDENCE LLC</RecipientName>
+<RecipientOrContractorName>2021 INDEPENDENCE LLC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641084623</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>2021 INDEPENDENCE LLC</VendorName>
+</doc>
+<doc>
+<record_count>27</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>04-01-2009</DateSigned>
+<DollarsObligated>16165.58</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B8002309151</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>28</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>04-01-2009</DateSigned>
+<DollarsObligated>16104.19</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B8002309181</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>29</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>04-01-2009</DateSigned>
+<DollarsObligated>16165.58</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B8002309120</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>30</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>07-01-2009</DateSigned>
+<DollarsObligated>16104.19</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B8002309243</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>31</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>01-01-2009</DateSigned>
+<DollarsObligated>16104.19</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B800230959</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>32</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>07-01-2009</DateSigned>
+<DollarsObligated>16104.19</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B8002309273</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>33</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>01-01-2009</DateSigned>
+<DollarsObligated>16165.58</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B800230990</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>34</record_count>
+<AwardType>Delivery Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price with Economic Price Adjustment</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>146171</ContractorOrRecipientId>
+<DUNSNumber>1136967070000</DUNSNumber>
+<DateSigned>07-01-2009</DateSigned>
+<DollarsObligated>16104.19</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency>Public Buildings Service</IDVAgency>
+<IDVProcurementInstrumentID>GS06B80023</IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>X</PSCCategoryCode>
+<ParentRecipientOrCompanyName>3605 PARTNERSHIP LLC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631343700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>531120</PrincipalNAICSCode><ProcurementInstrumentID>GS06B8002309212</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Lease or Rental of Facilities -- Office Buildings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Lease</ProjectDescription>
+<RecipientAddressLine123>6601 OLIVE ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>3605 PARTNERSHIP LLC</RecipientName>
+<RecipientOrContractorName>3605 PARTNERSHIP  L.L.C.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631302645</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Delivery Order</TypeofTransaction>
+<VendorName>3605 PARTNERSHIP LLC</VendorName>
+</doc>
+<doc>
+<record_count>35</record_count>
+<AwardType>Definitive Contract</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Public Buildings Service</ContractingAgency>
+<ContractorOrRecipientId>94922</ContractorOrRecipientId>
+<DUNSNumber>0670372540000</DUNSNumber>
+<DateSigned>08-17-2009</DateSigned>
+<DollarsObligated>1391.94</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Public Buildings Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>M</PSCCategoryCode>
+<ParentRecipientOrCompanyName>601 FEDERAL COMPLEX CHILD</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641062818</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>624410</PrincipalNAICSCode><ProcurementInstrumentID>GS06P09GXP0068</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Operation of Government-Owned Facilities -- Schools</ProductorServiceCode>
+<ProgramSource>4542 47</ProgramSource>
+<ProgramSourceAccountCode>4542</ProgramSourceAccountCode>
+<ProgramSourceAgencyCode>47</ProgramSourceAgencyCode>
+<ProgramSourceDescription>Federal Buildings Fund</ProgramSourceDescription>
+<ProjectDescription>Recycling for Child Care reimbursement</ProjectDescription>
+<RecipientAddressLine123>601 EAST 12TH STREET RM 104  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>601 FEDERAL COMPLEX CHILD</RecipientName>
+<RecipientOrContractorName>601 FEDERAL COMPLEX CHILD</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641060000</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Definitive Contract</TypeofTransaction>
+<VendorName>601 FEDERAL COMPLEX CHILD</VendorName>
+</doc>
+<doc>
+<record_count>36</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Natl. Oceanic and Atmospheric Admin. / Under Sec. Oceans and Atmosphere</ContractingAgency>
+<ContractorOrRecipientId>140059</ContractorOrRecipientId>
+<DUNSNumber>6148301690000</DUNSNumber>
+<DateSigned>11-24-2008</DateSigned>
+<DollarsObligated>12105.6</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Natl. Oceanic and Atmospheric Admin. / Under Sec. Oceans and Atmosphere</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Commerce</MajorAgency>
+<MajorFundingAgency>Department of Commerce</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>23</PSCCategoryCode>
+<ParentRecipientOrCompanyName>THE CRAWFORD GROUP INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>WA02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Washington</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>982250901</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>532111</PrincipalNAICSCode><ProcurementInstrumentID>DOCFH133M09SE0469</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Passenger Motor Vehicles</ProductorServiceCode>
+<ProgramSource>1450 13</ProgramSource>
+<ProgramSourceAccountCode>1450</ProgramSourceAccountCode>
+<ProgramSourceAgencyCode>13</ProgramSourceAgencyCode>
+<ProgramSourceDescription>Operations  Research  and Facilities</ProgramSourceDescription>
+<ProjectDescription>PASSENGER CAR RENTAL</ProjectDescription>
+<RecipientAddressLine123>600 CORPORATE PARK DR  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>THE CRAWFORD GROUP INC</RecipientName>
+<RecipientOrContractorName>866.677.4019</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631054204</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>ENTERPRISE RENT-A-CAR GOVERNMENT PROCUREMENT  INC</VendorName>
+</doc>
+<doc>
+<record_count>37</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Natl. Oceanic and Atmospheric Admin. / Under Sec. Oceans and Atmosphere</ContractingAgency>
+<ContractorOrRecipientId>140059</ContractorOrRecipientId>
+<DUNSNumber>6148301690000</DUNSNumber>
+<DateSigned>07-02-2009</DateSigned>
+<DollarsObligated>-411.6</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Natl. Oceanic and Atmospheric Admin. / Under Sec. Oceans and Atmosphere</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Commerce</MajorAgency>
+<MajorFundingAgency>Department of Commerce</MajorFundingAgency>
+<ModificationNumber>2</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>23</PSCCategoryCode>
+<ParentRecipientOrCompanyName>THE CRAWFORD GROUP INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>WA02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Washington</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>982250901</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>532111</PrincipalNAICSCode><ProcurementInstrumentID>DOCFH133M09SE0469</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Passenger Motor Vehicles</ProductorServiceCode>
+<ProgramSource>1450 13</ProgramSource>
+<ProgramSourceAccountCode>1450</ProgramSourceAccountCode>
+<ProgramSourceAgencyCode>13</ProgramSourceAgencyCode>
+<ProgramSourceDescription>Operations  Research  and Facilities</ProgramSourceDescription>
+<ProjectDescription>RENTAL VEHICLES FOR NOAA'S KA'IMIMOANA WHILE SHIP IS IN SHIPYARD.</ProjectDescription>
+<RecipientAddressLine123>600 CORPORATE PARK DR  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>THE CRAWFORD GROUP INC</RecipientName>
+<RecipientOrContractorName>866.677.4019</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631054204</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>ENTERPRISE RENT-A-CAR GOVERNMENT PROCUREMENT  INC</VendorName>
+</doc>
+<doc>
+<record_count>38</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>U.S. Fish and Wildlife Service</ContractingAgency>
+<ContractorOrRecipientId>93993</ContractorOrRecipientId>
+<DUNSNumber>0660794190000</DUNSNumber>
+<DateSigned>11-10-2008</DateSigned>
+<DollarsObligated>444.66</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>U.S. Fish and Wildlife Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of the Interior</MajorAgency>
+<MajorFundingAgency>Department of the Interior</MajorFundingAgency>
+<ModificationNumber>8</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>63</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A A T COMMUNICATIONS CORP</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>CA02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>California</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>961349758</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>421690</PrincipalNAICSCode><ProcurementInstrumentID>INF101814M002</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Miscellaneous Alarm  Signal and Security Detection Systems</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Radio Repeater Annual Fee</ProjectDescription>
+<RecipientAddressLine123>12444 POWERSCOURT DRIVE  SUITE 300  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A A T COMMUNICATIONS CORP</RecipientName>
+<RecipientOrContractorName>A A T COMMUNICATIONS CORP</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631313671</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A A T COMMUNICATIONS CORP</VendorName>
+</doc>
+<doc>
+<record_count>39</record_count>
+<AwardType>Definitive Contract</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>VETERANS AFFAIRS  Department of</ContractingAgency>
+<ContractorOrRecipientId>232503</ContractorOrRecipientId>
+<DUNSNumber>1880336820000</DUNSNumber>
+<DateSigned>06-11-2009</DateSigned>
+<DollarsObligated>26900</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>VETERANS AFFAIRS  Department of</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Veterans Affairs</MajorAgency>
+<MajorFundingAgency>Department of Veterans Affairs</MajorFundingAgency>
+<ModificationNumber>1</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A CHEM PRODUCTS INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO09</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>652011700</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>339113</PrincipalNAICSCode><ProcurementInstrumentID>VA255P0613</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Medical  Dental  and Veterinary Equipment and Supplies</ProductorServiceCode>
+<ProgramSource>0162 36</ProgramSource>
+<ProgramSourceAccountCode>0162</ProgramSourceAccountCode>
+<ProgramSourceAgencyCode>36</ProgramSourceAgencyCode>
+<ProgramSourceDescription>Medical Facilities</ProgramSourceDescription>
+<ProjectDescription>Columbia VAMC Steam Sterilizer Maintenance Contract</ProjectDescription>
+<RecipientAddressLine123>12001 MCKEE RD N  </RecipientAddressLine123>
+<RecipientCity>EXCELSIOR SPRINGS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A CHEM PRODUCTS INC</RecipientName>
+<RecipientOrContractorName>A CHEM PRODUCTS INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>640248399</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Definitive Contract</TypeofTransaction>
+<VendorName>A CHEM PRODUCTS INC</VendorName>
+</doc>
+<doc>
+<record_count>40</record_count>
+<AwardType>Definitive Contract</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>VETERANS AFFAIRS  Department of</ContractingAgency>
+<ContractorOrRecipientId>232503</ContractorOrRecipientId>
+<DUNSNumber>1880336820000</DUNSNumber>
+<DateSigned>07-15-2009</DateSigned>
+<DollarsObligated>46800</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>VETERANS AFFAIRS  Department of</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Veterans Affairs</MajorAgency>
+<MajorFundingAgency>Department of Veterans Affairs</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A CHEM PRODUCTS INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641062175</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>811219</PrincipalNAICSCode><ProcurementInstrumentID>VA255P1203</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Medical  Dental  and Veterinary Equipment and Supplies</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>steam sterilizer maintenance</ProjectDescription>
+<RecipientAddressLine123>12001 MCKEE RD N  </RecipientAddressLine123>
+<RecipientCity>EXCELSIOR SPRINGS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A CHEM PRODUCTS INC</RecipientName>
+<RecipientOrContractorName>A CHEM PRODUCTS INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>640248399</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Definitive Contract</TypeofTransaction>
+<VendorName>A CHEM PRODUCTS INC</VendorName>
+</doc>
+<doc>
+<record_count>41</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>VETERANS AFFAIRS  Department of</ContractingAgency>
+<ContractorOrRecipientId>232503</ContractorOrRecipientId>
+<DUNSNumber>1880336820000</DUNSNumber>
+<DateSigned>04-20-2009</DateSigned>
+<DollarsObligated>4500</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>VETERANS AFFAIRS  Department of</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Veterans Affairs</MajorAgency>
+<MajorFundingAgency>Department of Veterans Affairs</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>Q</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A CHEM PRODUCTS INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641282295</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode></PrincipalNAICSCode><ProcurementInstrumentID>V589KC9564</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Other Medical Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>SMALL PURCHASE DATA</ProjectDescription>
+<RecipientAddressLine123>12001 MCKEE RD N  </RecipientAddressLine123>
+<RecipientCity>EXCELSIOR SPRINGS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A CHEM PRODUCTS INC</RecipientName>
+<RecipientOrContractorName>A CHEM PRODUCTS INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>640248399</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A CHEM PRODUCTS INC</VendorName>
+</doc>
+<doc>
+<record_count>42</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>VETERANS AFFAIRS  Department of</ContractingAgency>
+<ContractorOrRecipientId>232503</ContractorOrRecipientId>
+<DUNSNumber>1880336820000</DUNSNumber>
+<DateSigned>06-16-2009</DateSigned>
+<DollarsObligated>7600</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>VETERANS AFFAIRS  Department of</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Veterans Affairs</MajorAgency>
+<MajorFundingAgency>Department of Veterans Affairs</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A CHEM PRODUCTS INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO05</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>641282295</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode></PrincipalNAICSCode><ProcurementInstrumentID>V589KC9677</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Medical  Dental  and Veterinary Equipment and Supplies</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>SMALL PURCHASE DATA</ProjectDescription>
+<RecipientAddressLine123>12001 MCKEE RD N  </RecipientAddressLine123>
+<RecipientCity>EXCELSIOR SPRINGS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A CHEM PRODUCTS INC</RecipientName>
+<RecipientOrContractorName>A CHEM PRODUCTS INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>640248399</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A CHEM PRODUCTS INC</VendorName>
+</doc>
+<doc>
+<record_count>43</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>NAVY  Department of the</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>05-19-2009</DateSigned>
+<DollarsObligated>6821.75</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>NAVY  Department of the</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>47</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>332919</PrincipalNAICSCode><ProcurementInstrumentID>N0010409PBW28</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Hose  Pipe  Tube  Lubrication  and Railing Fittings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Navy requirements</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A D MICHEL CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>44</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>NAVY  Department of the</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>01-22-2009</DateSigned>
+<DollarsObligated>18759.56</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>NAVY  Department of the</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>47</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>339991</PrincipalNAICSCode><ProcurementInstrumentID>N0010409PBJ91</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Hose  Pipe  Tube  Lubrication  and Railing Fittings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>NAVY REQUIREMENT</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A D MICHEL CO INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>45</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>STATE  Department of</ContractingAgency>
+<ContractorOrRecipientId>324420</ContractorOrRecipientId>
+<DUNSNumber>7969052760000</DUNSNumber>
+<DateSigned>10-28-2008</DateSigned>
+<DollarsObligated>1000</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>STATE  Department of</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of State</MajorAgency>
+<MajorFundingAgency>Department of State</MajorFundingAgency>
+<ModificationNumber>M001</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode></PSCCategoryCode>
+<ParentRecipientOrCompanyName>A.E. MILLER COMPANY  LLC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>633854579</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode></PrincipalNAICSCode><ProcurementInstrumentID>SBY70008M0316</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode></ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>None</ProjectDescription>
+<RecipientAddressLine123>119 WHISPER CREEK DR  </RecipientAddressLine123>
+<RecipientCity>WENTZVILLE</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A.E. MILLER COMPANY  LLC.</RecipientName>
+<RecipientOrContractorName>A E MILLER COMPANY  LLC /PROMO PUNCH.COM</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>633854579</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A.E. MILLER COMPANY  LLC.</VendorName>
+</doc>
+<doc>
+<record_count>46</record_count>
+<AwardType>Definitive Contract</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>19568</ContractorOrRecipientId>
+<DUNSNumber>0088753900000</DUNSNumber>
+<DateSigned>06-22-2009</DateSigned>
+<DollarsObligated>0</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>U.S. Army Corps of Engineers - civil program financing only</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>P00004</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>S</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A MARIE DANNER</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>IA03</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Iowa</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>501388820</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561110</PrincipalNAICSCode><ProcurementInstrumentID>W912EK08C0064</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Facilities Operations Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>FEE COLLECTION AND SURVEILLANCE</ProjectDescription>
+<RecipientAddressLine123>31901 VINE ST RD  </RecipientAddressLine123>
+<RecipientCity>MACON</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A MARIE DANNER</RecipientName>
+<RecipientOrContractorName>A MARIE DANNER</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>635521720</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Definitive Contract</TypeofTransaction>
+<VendorName>A MARIE DANNER</VendorName>
+</doc>
+<doc>
+<record_count>47</record_count>
+<AwardType>Definitive Contract</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>19568</ContractorOrRecipientId>
+<DUNSNumber>0088753900000</DUNSNumber>
+<DateSigned>12-05-2008</DateSigned>
+<DollarsObligated>0</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>U.S. Army Corps of Engineers - civil program financing only</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>P00002</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>S</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A MARIE DANNER</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>IA03</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Iowa</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>501388820</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561110</PrincipalNAICSCode><ProcurementInstrumentID>W912EK08C0064</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Facilities Operations Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>FEE COLLECTION AND SURVEILLANCE</ProjectDescription>
+<RecipientAddressLine123>31901 VINE ST RD  </RecipientAddressLine123>
+<RecipientCity>MACON</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A MARIE DANNER</RecipientName>
+<RecipientOrContractorName>A MARIE DANNER</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>635521720</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Definitive Contract</TypeofTransaction>
+<VendorName>A MARIE DANNER</VendorName>
+</doc>
+<doc>
+<record_count>48</record_count>
+<AwardType>Definitive Contract</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>19568</ContractorOrRecipientId>
+<DUNSNumber>0088753900000</DUNSNumber>
+<DateSigned>03-05-2009</DateSigned>
+<DollarsObligated>7560</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>U.S. Army Corps of Engineers - civil program financing only</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>P00003</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>S</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A MARIE DANNER</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>IA03</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Iowa</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>501388820</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>561110</PrincipalNAICSCode><ProcurementInstrumentID>W912EK08C0064</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Facilities Operations Support Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>FEE COLLECTION AND SURVEILLANCE</ProjectDescription>
+<RecipientAddressLine123>31901 VINE ST RD  </RecipientAddressLine123>
+<RecipientCity>MACON</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A MARIE DANNER</RecipientName>
+<RecipientOrContractorName>A MARIE DANNER</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>635521720</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Definitive Contract</TypeofTransaction>
+<VendorName>A MARIE DANNER</VendorName>
+</doc>
+<doc>
+<record_count>49</record_count>
+<AwardType>FSS</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Federal Supply Service</ContractingAgency>
+<ContractorOrRecipientId>598851</ContractorOrRecipientId>
+<DUNSNumber>1361804650000</DUNSNumber>
+<DateSigned>09-03-2009</DateSigned>
+<DollarsObligated>0</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Federal Supply Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>1</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>70</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A S C DIRECT (WEST)  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>611420</PrincipalNAICSCode><ProcurementInstrumentID>GS35F0228U</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>ADP Software</ProductorServiceCode>
+<ProgramSource>4548 47</ProgramSource>
+<ProgramSourceAccountCode>4548</ProgramSourceAccountCode>
+<ProgramSourceAgencyCode>47</ProgramSourceAgencyCode>
+<ProgramSourceDescription>Information Technology Fund</ProgramSourceDescription>
+<ProjectDescription></ProjectDescription>
+<RecipientAddressLine123>900 W WASHINGTON ST STE 140  </RecipientAddressLine123>
+<RecipientCity>MARSHFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A S C DIRECT (WEST)  INC.</RecipientName>
+<RecipientOrContractorName>A S C DIRECT (WEST)  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>657062389</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>FSS</TypeofTransaction>
+<VendorName>A S C DIRECT INCORPORATED</VendorName>
+</doc>
+<doc>
+<record_count>50</record_count>
+<AwardType>FSS</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Federal Supply Service</ContractingAgency>
+<ContractorOrRecipientId>598851</ContractorOrRecipientId>
+<DUNSNumber>1361804650000</DUNSNumber>
+<DateSigned>09-08-2009</DateSigned>
+<DollarsObligated>0</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Federal Supply Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>General Services Administration</MajorAgency>
+<MajorFundingAgency>General Services Administration</MajorFundingAgency>
+<ModificationNumber>2</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>70</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A S C DIRECT (WEST)  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>611420</PrincipalNAICSCode><ProcurementInstrumentID>GS35F0228U</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>ADP Software</ProductorServiceCode>
+<ProgramSource>4548 47</ProgramSource>
+<ProgramSourceAccountCode>4548</ProgramSourceAccountCode>
+<ProgramSourceAgencyCode>47</ProgramSourceAgencyCode>
+<ProgramSourceDescription>Information Technology Fund</ProgramSourceDescription>
+<ProjectDescription></ProjectDescription>
+<RecipientAddressLine123>900 W WASHINGTON ST STE 140  </RecipientAddressLine123>
+<RecipientCity>MARSHFIELD</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A S C DIRECT (WEST)  INC.</RecipientName>
+<RecipientOrContractorName>A S C DIRECT (WEST)  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>657062389</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>FSS</TypeofTransaction>
+<VendorName>A S C DIRECT INCORPORATED</VendorName>
+</doc>
+<doc>
+<record_count>51</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>66917</ContractorOrRecipientId>
+<DUNSNumber>0434954560000</DUNSNumber>
+<DateSigned>12-11-2008</DateSigned>
+<DollarsObligated>9874</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>V</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A-1 MOVING &amp; STORAGE INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO04</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>654730140</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>484210</PrincipalNAICSCode><ProcurementInstrumentID>W911S709P0072</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Relocation Services</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Bldg 819</ProjectDescription>
+<RecipientAddressLine123>706 OAKLANE DR  </RecipientAddressLine123>
+<RecipientCity>ROLLA</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A-1 MOVING &amp; STORAGE INC</RecipientName>
+<RecipientOrContractorName>A-1 MOVING &amp; STORAGE INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>654014173</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A-1 MOVING &amp; STORAGE INC</VendorName>
+</doc>
+<doc>
+<record_count>52</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>109280</ContractorOrRecipientId>
+<DUNSNumber>0777150060000</DUNSNumber>
+<DateSigned>06-11-2009</DateSigned>
+<DollarsObligated>12500</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A J &amp; SONS</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>KS02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Kansas</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>660271417</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>811212</PrincipalNAICSCode><ProcurementInstrumentID>W91QF409P0127</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Office Machines  Text Processing Systems and Visible Record Equipment</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Shredder Repair</ProjectDescription>
+<RecipientAddressLine123>4425 GLADSTONE BLVD  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A J &amp; SONS</RecipientName>
+<RecipientOrContractorName>A-J &amp; SONS</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641231238</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A-J &amp; SONS</VendorName>
+</doc>
+<doc>
+<record_count>53</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>AIR FORCE  Department of the (Headquarters  USAF)</ContractingAgency>
+<ContractorOrRecipientId>109280</ContractorOrRecipientId>
+<DUNSNumber>0777150060000</DUNSNumber>
+<DateSigned>09-14-2009</DateSigned>
+<DollarsObligated>-500</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>AIR FORCE  Department of the (Headquarters  USAF)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>P00001</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>49</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A J &amp; SONS</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO04</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>653055344</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>333298</PrincipalNAICSCode><ProcurementInstrumentID>FA462509P0014</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Miscellaneous Maintenance and Repair Shop Specialized Equipment</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Perform quarterly maintenance on the bas</ProjectDescription>
+<RecipientAddressLine123>4425 GLADSTONE BLVD  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A J &amp; SONS</RecipientName>
+<RecipientOrContractorName>A-J &amp; SONS</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641231238</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A-J &amp; SONS</VendorName>
+</doc>
+<doc>
+<record_count>54</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Internal Revenue Service</ContractingAgency>
+<ContractorOrRecipientId>109280</ContractorOrRecipientId>
+<DUNSNumber>0777150060000</DUNSNumber>
+<DateSigned>01-13-2009</DateSigned>
+<DollarsObligated>-349</DollarsObligated>
+<ExtentCompeted>Not Competed under SAP</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Internal Revenue Service</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of the Treasury</MajorAgency>
+<MajorFundingAgency>Department of the Treasury</MajorFundingAgency>
+<ModificationNumber>12</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A J &amp; SONS</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>KS03</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Kansas</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>662192900</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>811212</PrincipalNAICSCode><ProcurementInstrumentID>TIRMS05E00022</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Office Machines  Text Processing Systems and Visible Record Equipment</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Maintenance of Electric paper cutter</ProjectDescription>
+<RecipientAddressLine123>4425 GLADSTONE BOULEVARD  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A J &amp; SONS</RecipientName>
+<RecipientOrContractorName>A-J &amp; SONS</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641231238</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A J AND SONS</VendorName>
+</doc>
+<doc>
+<record_count>55</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>109280</ContractorOrRecipientId>
+<DUNSNumber>0777150060000</DUNSNumber>
+<DateSigned>08-24-2009</DateSigned>
+<DollarsObligated>12500</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A J &amp; SONS</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>KS02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Kansas</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>660271417</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>811212</PrincipalNAICSCode><ProcurementInstrumentID>W91QF409P0186</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Office Machines  Text Processing Systems and Visible Record Equipment</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Teardown  rebuild  repair   and service high security shredders</ProjectDescription>
+<RecipientAddressLine123>4425 GLADSTONE BLVD  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A J &amp; SONS</RecipientName>
+<RecipientOrContractorName>A-J &amp; SONS</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641231238</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A-J &amp; SONS</VendorName>
+</doc>
+<doc>
+<record_count>56</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</ContractingAgency>
+<ContractorOrRecipientId>109280</ContractorOrRecipientId>
+<DUNSNumber>0777150060000</DUNSNumber>
+<DateSigned>05-11-2009</DateSigned>
+<DollarsObligated>9435</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>ARMY  Department of the (except Corps of Engineers Civil Program Financing)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>P00001</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>J</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A J &amp; SONS</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>KS02</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Kansas</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>660272300</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>811212</PrincipalNAICSCode><ProcurementInstrumentID>W91QF408P0184</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Maintenance  Repair and Rebuilding of Equipment -- Office Machines  Text Processing Systems and Visible Record Equipment</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>SEM 244/3 PMCS</ProjectDescription>
+<RecipientAddressLine123>4425 GLADSTONE BLVD  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A J &amp; SONS</RecipientName>
+<RecipientOrContractorName>A-J &amp; SONS</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641231238</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A-J &amp; SONS</VendorName>
+</doc>
+<doc>
+<record_count>57</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>AIR FORCE  Department of the (Headquarters  USAF)</ContractingAgency>
+<ContractorOrRecipientId>109280</ContractorOrRecipientId>
+<DUNSNumber>0777150060000</DUNSNumber>
+<DateSigned>10-01-2008</DateSigned>
+<DollarsObligated>3448</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>AIR FORCE  Department of the (Headquarters  USAF)</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>49</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A J &amp; SONS</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO04</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>653055344</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>333298</PrincipalNAICSCode><ProcurementInstrumentID>FA462509P0014</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Miscellaneous Maintenance and Repair Shop Specialized Equipment</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Perform quarterly maintenance on the bas</ProjectDescription>
+<RecipientAddressLine123>4425 GLADSTONE BLVD  </RecipientAddressLine123>
+<RecipientCity>KANSAS CITY</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A J &amp; SONS</RecipientName>
+<RecipientOrContractorName>A-J &amp; SONS</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>641231238</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A-J &amp; SONS</VendorName>
+</doc>
+<doc>
+<record_count>58</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>U.S. Coast Guard</ContractingAgency>
+<ContractorOrRecipientId>264135</ContractorOrRecipientId>
+<DUNSNumber>5562898900000</DUNSNumber>
+<DateSigned>04-30-2009</DateSigned>
+<DollarsObligated>709.68</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>U.S. Coast Guard</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Homeland Security</MajorAgency>
+<MajorFundingAgency>Department of Homeland Security</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>93</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. B. CONVERTING CO  INC</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO03</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>631183303</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>322221</PrincipalNAICSCode><ProcurementInstrumentID>HSCG2509P3L3B93</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Paper and Paperboard</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Cut Colored Elastomeric Film and Retro-reflective tape</ProjectDescription>
+<RecipientAddressLine123>5017 S 38TH ST  </RecipientAddressLine123>
+<RecipientCity>SAINT LOUIS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. B. CONVERTING CO  INC</RecipientName>
+<RecipientOrContractorName>A. B. CONVERTING CO  INC</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>631164129</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. B. CONVERTING CO  INC</VendorName>
+</doc>
+<doc>
+<record_count>59</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>12-23-2008</DateSigned>
+<DollarsObligated>3675</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>47</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>332996</PrincipalNAICSCode><ProcurementInstrumentID>SPM7MC09V1107</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Hose  Pipe  Tube  Lubrication  and Railing Fittings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4509526694!ADAPTER STRAIGHT PI</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>60</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>02-04-2009</DateSigned>
+<DollarsObligated>2673</DollarsObligated>
+<ExtentCompeted>Not Competed</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>48</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>336311</PrincipalNAICSCode><ProcurementInstrumentID>SPM7M209M3134</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Valves  Nonpowered</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4509854172!VALVE BUTTERFLY</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>61</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>05-29-2009</DateSigned>
+<DollarsObligated>4005</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>48</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>336311</PrincipalNAICSCode><ProcurementInstrumentID>SPM7MC09V3431</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Valves  Nonpowered</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4510958163!VALVE FLOAT</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>62</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>08-27-2009</DateSigned>
+<DollarsObligated>2910</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>48</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>336311</PrincipalNAICSCode><ProcurementInstrumentID>SPM7MC09V4828</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Valves  Nonpowered</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4511785513!VALVE REGULATING FL</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>63</record_count>
+<AwardType>IDC</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>10-14-2008</DateSigned>
+<DollarsObligated>0</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>47</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>332996</PrincipalNAICSCode><ProcurementInstrumentID>SPM7M109D5L34</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Hose  Pipe  Tube  Lubrication  and Railing Fittings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4600052619!ADAPTER STRAIGHT PI</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>IDC</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>64</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>12-13-2008</DateSigned>
+<DollarsObligated>2506</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>48</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>336311</PrincipalNAICSCode><ProcurementInstrumentID>SPM7M109V5328</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Valves  Nonpowered</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4509446636!VALVE EXPANSION</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>65</record_count>
+<AwardType>IDC</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>03-27-2009</DateSigned>
+<DollarsObligated>0</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>47</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict></PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState></PlaceofPerformanceState>
+<PlaceofPerformanceZipCode></PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>332996</PrincipalNAICSCode><ProcurementInstrumentID>SPM7M109D5R40</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Hose  Pipe  Tube  Lubrication  and Railing Fittings</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4600055345!COUPLING HALF QUICK</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber></TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>IDC</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>66</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>03-05-2009</DateSigned>
+<DollarsObligated>7306</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>48</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>336311</PrincipalNAICSCode><ProcurementInstrumentID>SPM7M209M3921</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Valves  Nonpowered</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4510132226!VALVE BALL</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>67</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>12-13-2008</DateSigned>
+<DollarsObligated>3144</DollarsObligated>
+<ExtentCompeted>Full and Open Competition after exclusion of sources</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>48</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>336311</PrincipalNAICSCode><ProcurementInstrumentID>SPM7M109V5337</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Valves  Nonpowered</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4509446676!VALVE BALL</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>68</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>1155559</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>12-01-2008</DateSigned>
+<DollarsObligated>26752</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>25</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>423110</PrincipalNAICSCode><ProcurementInstrumentID>SPM7MC09V0554</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Miscellaneous Vehicular Components</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>Miscellaneous Vehicular Components</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+<doc>
+<record_count>69</record_count>
+<AwardType>Purchase Order</AwardType>
+<CompetitionCategory></CompetitionCategory>
+<ContractPricing>Fixed Price</ContractPricing>
+<ContractingAgency>Defense Logistics Agency</ContractingAgency>
+<ContractorOrRecipientId>208456</ContractorOrRecipientId>
+<DUNSNumber>1608320930000</DUNSNumber>
+<DateSigned>05-06-2009</DateSigned>
+<DollarsObligated>9200</DollarsObligated>
+<ExtentCompeted>Full and Open Competition</ExtentCompeted>
+<FaceValue>0</FaceValue>
+<FiscalYear>2009</FiscalYear>
+<FundingAgency>Defense Logistics Agency</FundingAgency>
+<IDVAgency></IDVAgency>
+<IDVProcurementInstrumentID></IDVProcurementInstrumentID>
+<MajorAgency>Department of Defense</MajorAgency>
+<MajorFundingAgency>Department of Defense</MajorFundingAgency>
+<ModificationNumber>0</ModificationNumber>
+<FederalAwardId></FederalAwardId>
+<PSCCategoryCode>66</PSCCategoryCode>
+<ParentRecipientOrCompanyName>A. D. MICHEL CO.  INC.</ParentRecipientOrCompanyName>
+<PlaceofPerformanceCongDistrict>MO01</PlaceofPerformanceCongDistrict>
+<PlaceofPerformanceState>Missouri</PlaceofPerformanceState>
+<PlaceofPerformanceZipCode>630432419</PlaceofPerformanceZipCode>
+<PrincipalNAICSCode>334519</PrincipalNAICSCode><ProcurementInstrumentID>SPM4A609V4833</ProcurementInstrumentID>
+<PrincipalPlaceCountyOrCity></PrincipalPlaceCountyOrCity>
+<ProductorServiceCode>Liquid and Gas Flow  Liquid Level  and Mechanical Motion Measuring Instruments</ProductorServiceCode>
+<ProgramSource></ProgramSource>
+<ProgramSourceAccountCode></ProgramSourceAccountCode>
+<ProgramSourceAgencyCode></ProgramSourceAgencyCode>
+<ProgramSourceDescription></ProgramSourceDescription>
+<ProjectDescription>4510737745!METER FLOW RATE IND</ProjectDescription>
+<RecipientAddressLine123>2505 METRO BLVD STE C  </RecipientAddressLine123>
+<RecipientCity>MARYLAND HEIGHTS</RecipientCity>
+<RecipientCongressionalDistrict></RecipientCongressionalDistrict>
+<RecipientCountyName></RecipientCountyName>
+<RecipientName>A. D. MICHEL CO.  INC.</RecipientName>
+<RecipientOrContractorName>A. D. MICHEL CO.  INC.</RecipientOrContractorName>
+<RecipientState>Missouri</RecipientState>
+<RecipientZipCode>630432419</RecipientZipCode>
+<TransactionNumber>0</TransactionNumber>
+<TypeofSpending>Contracts</TypeofSpending>
+<TypeofTransaction>Purchase Order</TypeofTransaction>
+<VendorName>A. D. MICHEL CO.  INC.</VendorName>
+</doc>
+</result>
+</response>
