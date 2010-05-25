@@ -1,3 +1,7 @@
+h3. 0.1.1 / 2010-05-17
+
+* Added contracts
+
 h3. 0.1.0 / 2010-05-17
 
 * Initial version

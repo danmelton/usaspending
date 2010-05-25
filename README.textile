@@ -2,17 +2,31 @@ h1. USA Spending API Wrapper
 
 NOTE: This is an unofficial ruby gem. The developer is not connected to USASpending.gov
 
+h2. Description
+
+The USA Spending Gem wraps around the Feeral Procurement Database located at usaspending.gov. Complete documentation can be found at http://www.usaspending.gov/learn?tab=About%20the%20Data
+
+h2. Installation
+
+This gem requires:
+
+* XmlSimple
+
+@$ sudo gem install xmlsimple@
+
+@$ sudo gem install usaspending@
+
 h2. Usage
 
 *Initialize the search*
-s = USA::Procurement.new
+@>> s = USA::Procurement.new@
 
 *Add the qualifiers*
-s.detail("b").max_records(69).years(2009).state("MO")
+@>> s.detail("b").max_records(69).years(2009).state("MO")@
 
 *Fetch the contracts, returns an array of contract objects*
-s.fetch_contracts
+@>> s.fetch_contracts@
 
 *Access a contract's attributes*
-contract = s.fetch_contracts.first
-contract.dollarsobligated
+@>>contract = s.fetch_contracts.first@
+@>>contract.dollarsobligated@
